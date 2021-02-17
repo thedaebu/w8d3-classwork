@@ -54,11 +54,12 @@ Array.prototype.transpose = function(){
 return newArr;
 };
 
-console.log([1,-1,5,0,-5].twoSum());
+// console.log([1,-1,5,0,-5].twoSum());
 
-a = [[1,2,3],[4,5,6],[7,8,9]].transpose();
-console.log(a);
+// a = [[1,2,3],[4,5,6],[7,8,9]].transpose();
+// console.log(a);
 
 // 0, 0 | 0, 1 | 0, 2
 // 1, 0 | 1, 1 | 1, 2
 // 2, 0 | 2, 1 | 2, 2
+
